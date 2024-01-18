@@ -1,0 +1,33 @@
+{
+    "name": "baitap3",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon --inspect index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/doanttlongthanh/baitap3.git"
+    },
+    "keywords": [
+        "bai",
+        "tap",
+        "bai",
+        "tap",
+        "3"
+    ],
+    "author": "THANH LONG",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/doanttlongthanh/baitap3/issues"
+    },
+    "homepage": "https://github.com/doanttlongthanh/baitap3#readme",
+    "dependencies": {
+        "express": "^4.18.2"
+    },
+    "devDependencies": {
+        "nodemon": "^3.0.3"
+    }
+}
